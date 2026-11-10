@@ -1,0 +1,14 @@
+# Dependencies and build output (Cloudflare rebuilds these)
+node_modules/
+site/dist/
+__pycache__/
+*.pyc
+
+# Raw DNA match exports: other testers' details; kept on this computer only
+data/dna/
+
+# Logs and scratch
+*.log
+site/qa/*.png
+.DS_Store
+Thumbs.db

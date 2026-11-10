@@ -1,0 +1,17 @@
+{
+  "_help": "Edit this file first. See PLAYBOOK.md step 0.",
+  "familyName": "Example",
+  "siteTitle": "Example Family Explorer",
+  "domain": "",
+  "userAgent": "FamilyExplorerKit/1.0 (personal genealogy research)",
+  "wikitreeAppId": "familyExplorerKit",
+  "fsAnchors": {},
+  "overviewLede": "",
+  "searchHint": "Smith 1800",
+  "originsNote": "",
+  "ancestryTrees": {},
+  "surnameVariants": {
+    "smyth": "smith"
+  },
+  "royalGateways": {}
+}
